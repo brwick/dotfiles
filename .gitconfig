@@ -1,0 +1,5 @@
+[user]
+        email = wtdrive@email.test
+        name = brwick
+[push]
+        default = simple
